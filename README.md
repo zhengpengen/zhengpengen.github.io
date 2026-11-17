@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Source code for Pengen Zheng's academic website: https://zhengpengen.github.io/.
+
+Based on [Jon Barron's website template](https://github.com/jonbarron/jonbarron.github.io).
